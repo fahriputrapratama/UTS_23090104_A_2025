@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "681c1e2445423e522a5be9f6"
+  },
+  "nama": "Ahmad Fahri",
+  "umur": 20,
+  "kota": "Tegal"
+},
+{
+  "_id": {
+    "$oid": "681c1e2445423e522a5be9f7"
+  },
+  "nama": "Sapardi Djoko Damono",
+  "umur": 19,
+  "kota": "Semarang"
+}]
